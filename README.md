@@ -49,4 +49,4 @@ licensing requirement.
 
 ## Contact
 
-andres@nina-energy.com · https://nina-energy.com
+andres@nina-energy.com · https://nina.energy
