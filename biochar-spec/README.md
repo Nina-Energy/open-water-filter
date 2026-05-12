@@ -1,1 +1,3 @@
-# Biochar Specification\n\nPyrolysis parameters, BET surface area, iodine number, and adsorption isotherms for Pb²⁺, Cd²⁺, As³⁺, and *E. coli* retention. Released under **CC-BY 4.0**. Deliverable: Month 3 of investment period.
+# Biochar Specification
+
+Pyrolysis parameters, BET surface area, iodine number, and adsorption isotherms for Pb²⁺, Cd²⁺, As³⁺, and *E. coli* retention. Released under **CC-BY 4.0**. Deliverable: Month 3 of investment period.
